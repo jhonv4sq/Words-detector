@@ -1,0 +1,28 @@
+/*!
+ * Start Bootstrap - The Big Picture (https://startbootstrap.com/template/the-big-picture)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-the-big-picture/blob/master/LICENSE)
+ */
+body {
+  background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+@media screen and (max-width: 412px) and (max-height: 824px) {
+  body{
+    background: url('http://placehold.it/411x823') no-repeat center center fixed;
+  }
+}
+@media screen and (max-width: 412px) {
+  body{
+    background: url('http://placehold.it/411x731') no-repeat center center fixed;
+  }
+}
+@media screen and (max-width: 361px) {
+  body{
+    background: url('http://placehold.it/360x640') no-repeat center center fixed;
+  }
+}
