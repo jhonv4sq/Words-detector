@@ -19,7 +19,7 @@ https://opentdb.com/api_config.php
 
 ## Game screen
 
-<div style="display:flex;flex-wrap:wrap;justify-content:space-between;">
+<div style="display:flex; flex-wrap:wrap; justify-content:space-between;">
 <img style="width:300px" src="https://i.postimg.cc/c6qCQc6G/Screenshot-20220512-220813-Chrome.jpg">
 <img style="width:300px" src="https://i.postimg.cc/ZK3FX783/Screenshot-20220512-220827-Chrome.jpg">
 <img style="width:300px" src="https://i.postimg.cc/bJWkBkd3/Screenshot-20220512-220840-Chrome.jpg">
