@@ -1,4 +1,5 @@
 #The project
+
 The project is part of a formation course by FactoriaF5 where the main goal is to adquire the knowledge and experience to Vue.js framework developing a tirvia game app using a Json api to get the questions followed by the answers which will be displayed on the player screen before starting the game.
 
 #FactoTrivia
@@ -17,6 +18,7 @@ https://opentdb.com/api_config.php
 ```
 
 ##Game screen
+
 <div style="display:flex;flex-wrap:wrap;justify-content:space-between;">
 <img style="width:300px" src="https://i.postimg.cc/c6qCQc6G/Screenshot-20220512-220813-Chrome.jpg">
 <img style="width:300px" src="https://i.postimg.cc/ZK3FX783/Screenshot-20220512-220827-Chrome.jpg">
@@ -27,6 +29,7 @@ https://opentdb.com/api_config.php
 
 # Getting started
 ## Installation
+
 Please check the official laravel installation guide for server requirements before you start. [Official Documentation](https://laravel.com/docs/5.4/installation#installation)
 Clone the repository
 ```bash
